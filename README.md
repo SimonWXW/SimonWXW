@@ -1,7 +1,7 @@
 - 👋 Hi, I’m WuXiwen from school of Computer Science in NWPU, China
 - 👀 I’m interested in table tennis, badminton...
-- 🌱 I’m currently learning compiler principle, text spotting...
-- 💞️ I’m looking to collaborate with AI researchers in the field of CV
+- 🌱 I’m currently learning compiler principle, CV, ML, RL...
+- 💞️ I’m looking to collaborate with excellent AI researchers globally
 - 📫 How to reach me: wuxiwen@mail.nwpu.edu.cn
 
 <!---
