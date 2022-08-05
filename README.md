@@ -1,8 +1,8 @@
-- 👋 Hi, I’m WuXiwen from school of Computer Science in NWPU, China
+- 👋 Hi, I’m WuXiwen majoring in artificial intelligence from school of Computer Science in NWPU, China
 - 👀 I’m interested in table tennis, badminton...
-- 🌱 I’m currently learning compiler principle, CV, ML, RL...
-- 💞️ I’m looking to collaborate with excellent AI researchers globally
-- 📫 How to reach me: wuxiwen@mail.nwpu.edu.cn
+- 🌱 I’m currently learning CV, NLP and the intersection between the two fields.
+- 💞️ I’m looking to learn from excellent AI researchers in top institutes around the world.
+- 📫 How to reach me: wuxiwen.simon@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonWXW&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
