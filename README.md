@@ -1,8 +1,9 @@
-- 👋 Hi, I’m WuXiwen majoring in artificial intelligence from school of Computer Science in NWPU, China
-- 👀 I’m interested in table tennis, badminton...
-- 🌱 I’m currently learning CV, NLP and the intersection between the two fields.
-- 💞️ I’m looking to learn from excellent AI researchers in top institutes around the world.
+- 👋 Hi, I’m Xiwen Wu, an undergraduate majoring in AI from NWPU, China.
+- 👀 I’m interested in doing sports like table tennis, badminton and watching USA TV series like Big Bang...
+- 🌱 I’m currently conducting some research on Visual SLAM and deep learning.
+- 💞️ I’m looking to collabrate with excellent people in the field of AI.
 - 📫 How to reach me: wuxiwen.simon@gmail.com
+- 🏠 My personal website: coming soon!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonWXW&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
