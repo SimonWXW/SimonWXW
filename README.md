@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xiwen Wu from Guangzhou, Guangdong, China.
+- 👋 Hi, I’m Xiwen Wu from Guangzhou, China.
 - 🌱 I’m currently doing research about medical image analysis.
 - 📫 How to reach me: wuxiwen.simon@gmail.com
 
