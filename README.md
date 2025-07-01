@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiwen Wu from Guangzhou, China.
 - 🎓 I recently obtained master degree in computer engineering from NUS.
-- 🌱 Now I’m working on video generation in an AI startup based in SG.
+- 🌱 Now I’m working on video generation.
 - 📫 How to reach me: wuxiwen.simon@gmail.com
 
 <!---
