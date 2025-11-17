@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiwen Wu from Guangzhou, China.
-- 🎓 I recently obtained master degree in computer engineering from NUS.
-- 🌱 Now I’m working on video generation.
+- 🎓 I graduated from NUS with a master degree in computer engineering
+- 🌱 Now I’m working as an algorithm engineer on video generation in Baidu.
 - 📫 How to reach me: wuxiwen.simon@gmail.com
 
 <!---
